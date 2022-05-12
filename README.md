@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jordan</h1>
+<h1 align="center">Hi👋🏿, I'm Jordan</h1>
 <h3 align="center">A passionate full Stack Developer with an interest in Language Learning and game programming.</h3>
 
 
