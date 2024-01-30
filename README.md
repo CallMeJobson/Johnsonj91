@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋🏿, I'm Jordan</h1>
-<h3 align="center">A passionate full Stack Developer with an interest in Language Learning and game programming.</h3>
+<h3 align="center">A passionate Game Developer with an interest in Language Learning and Roller Staking</h3>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnsonj91&show_icons=true&locale=en" alt="johnsonj91" /></p>
