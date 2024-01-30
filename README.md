@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jobsoncodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jobsoncodes" height="30" width="40" /></a>
-<a href="https://twitter.com/cousinjordann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cousinjordann" height="30" width="40" /></a>
+<a href="https://twitter.com/CallMeJobson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CallMeJobson" height="30" width="40" /></a>
 <a href="https://hashnode.com/@jobson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jobson" height="30" width="40" /></a>
 </p>
 <h3 align="left">Current Code Wars Rank</h3>
